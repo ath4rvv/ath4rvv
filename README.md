@@ -69,7 +69,7 @@ I care a lot about the small stuff: smooth animations, clean spacing, and things
 
 Got an idea, a bug, or just wanna talk web dev? My DMs are open 👇
 
-<a href="https://x.com/dev_atharvv"><img src="https://img.shields.io/badge/X-@dev__atharvv-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://x.com/ath4rvv_s"><img src="https://img.shields.io/badge/X-@ath4rvv_s-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.linkedin.com/in/atharvrajsingh/"><img src="https://img.shields.io/badge/LinkedIn-Atharvraj_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
