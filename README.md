@@ -1,6 +1,6 @@
 <div align="center">
 
-### Frontend dev who loves turning ideas into clean, useful and good-looking web experiences   
+### Frontend dev who loves turning ideas into clean, useful and good-looking web experiences    
 
 </div>
 
